@@ -11,13 +11,13 @@ Professional**. Strongly interested in roles that drive innovation in cloud-nati
 and positively impact lives with the immense power of Technology.  
 
 
-✔ Experienced in **AWS, GCP** and **On-Premise** infrastructure.  
-✔ **AWS Certified**.  
-✔ **Linux Certified**.  
-✔ Deeply enjoy working with CNCF-Related projects
-✔ Highly skilled in **Kubernetes, GitOps, Software Release processes**, and automation of infrastructure.  
-✔ Strong Expertise in ** Infrastructure Monitoring, Site Reliability and FinOps**.  
-✔ Actively Learning how AI works and the tooling around it to solve enterprise challenges.  
+- ✔ Experienced in **AWS, GCP** and **On-Premise** infrastructure.  
+- ✔ **AWS Certified**.  
+- ✔ **Linux Certified**.  
+- ✔ Deeply enjoy working with CNCF-Related projects
+- ✔ Highly skilled in **Kubernetes, GitOps, Software Release processes**, and automation of infrastructure.  
+- ✔ Strong Expertise in ** Infrastructure Monitoring, Site Reliability and FinOps**.  
+- ✔ Actively Learning how AI works and the tooling around it to solve enterprise challenges.  
 
 ---
 
@@ -112,7 +112,7 @@ and positively impact lives with the immense power of Technology.
 
 ---
 
-## My Socials 
-
-<p align="center"><a href="mailto:j.keybe@gmail.com" target="_blank"></a>&nbsp;&nbsp;<span style="margin-left: 20px;"></span><a href="https://www.linkedin.com/in/kibet-john/" target="_blank"></a></p>
+## My Socials
+- [LinkedIn](https://www.linkedin.com/in/kibet-john/)
+- [Email](mailto:j.keybe@gmail.com)
 
