@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there, I am <span style="color:#FF4C60;">Kibet John</span></h1>
+<h2 align="center"> Hey there, I am <span style="color:#FF4C60;">Kibet</span></h1>
 <h3 align="center">⚛ Cloud Enginner• DevOps & GitOps Evangelist • Site Reliability Engineer</h3>
 
 ---
