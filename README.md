@@ -114,5 +114,5 @@ and positively impact lives with the immense power of Technology.
 
 ## My Socials 
 
-<p align="center"><a href="mailto:j.keybe@gmail.com" target="_blank"><img src="./assets/email-button.svg" alt="Email" height="40"></a>&nbsp;&nbsp;<span style="margin-left: 20px;"></span><a href="https://www.linkedin.com/in/kibet-john/" target="_blank"><img src="./assets/linkedin-button.svg" alt="LinkedIn" height="40"></a></p>
+<p align="center"><a href="mailto:j.keybe@gmail.com" target="_blank"></a>&nbsp;&nbsp;<span style="margin-left: 20px;"></span><a href="https://www.linkedin.com/in/kibet-john/" target="_blank"></a></p>
 
